@@ -1,16 +1,16 @@
 import sys
 
 #1.
-print(ord(input()))
+# print(ord(input()))
 
 
 #2.
-n = int(input())
-num = sys.stdin.readline().rstrip()
-total = 0
-for i in range(len(num)):
-    total += int(num[i])
-print(total)
+# n = int(input())
+# num = sys.stdin.readline().rstrip()
+# total = 0
+# for i in range(len(num)):
+#     total += int(num[i])
+# print(total)
 
 
 #3.
